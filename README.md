@@ -25,7 +25,7 @@
 
 ```txt
 - Node.js / Express  
-- Python / Django, FastAPI, Flask
+- Python / Django, FastAPI, Flask, Vibe Coder
 - Go / gRPC
 - Java / Spring Boot
 - PHP / Laravel
