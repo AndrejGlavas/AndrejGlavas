@@ -12,24 +12,25 @@
 ## 🧩 Frontend Skills
 
 ```txt
-- React.js, React Native, Next.js, Redux-Saga, Redux-Thunk  
-- Svelte, Angular, Lit  
-- HTML5, CSS3, SASS / Bootstrap, Styled Components  
-- JavaScript, jQuery, Ajax  
-- TypeScript  
-- Ant Design / Material Design / LESS / SASS  
-- WebPack, NPM, Yarn
+- React.js, Next.js, React Native, Redux, Zustand, Redux-Saga, Redux-Thunk
+- Angular, Vue.js, Svelte, Lit
+- HTML5, CSS3, Tailwind CSS, Bootstrap, Styled Components, SASS/SCSS, LESS
+- JavaScript, TypeScript, jQuery, Ajax
+- Ant Design, Material UI, Shadcn UI  
+- Framer Motion, Konva.js, Three.js, Chart.js
+- Vite, Webpack, NPM, Yarn
 ```
 
-## 🧩 Backend Skills
+## 🧠 Backend Skills
 
 ```txt
 - Node.js / Express  
-- Python / Django, Flask  
-- PHP / Laravel  
-- Java / Spring  
-- MySQL, Elasticsearch, MongoDB, PostgreSQL, SQL  
-- Amazon Web Services (AWS), Firebase
+- Python / Django, FastAPI, Flask
+- Go / gRPC
+- Java / Spring Boot
+- PHP / Laravel
+- MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch, DynamoDB, SQLite, SQL Server
+- Amazon Web Services (AWS), Azure, GCP, Firebase, Docker, Kubernetes
 ```
 
 ## 💻 My favorite tools and technologies
