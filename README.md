@@ -33,7 +33,7 @@
 - Amazon Web Services (AWS), Azure, GCP, Firebase, Docker, Kubernetes
 ```
 
-## 💻 My favorite tools and technologies
+##  <h1 align="left">💻 My favorite tools and technologies</h1>
 
 <table align="center">
   <!-- Row 1 -->
