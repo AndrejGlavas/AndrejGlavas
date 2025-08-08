@@ -9,7 +9,7 @@
 
 ---
 
-## 🧩 Frontend Skills
+## <h1 align="left">🧩 Frontend Skills</h1>
 
 ```txt
 - React.js, Next.js, React Native, Redux, Zustand, Redux-Saga, Redux-Thunk
@@ -21,7 +21,7 @@
 - Vite, Webpack, NPM, Yarn
 ```
 
-## 🧠 Backend Skills
+## <h1 align="left">🧠 Backend Skills</h1>
 
 ```txt
 - Node.js / Express  
